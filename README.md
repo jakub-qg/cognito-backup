@@ -52,3 +52,5 @@ DEBUG=cognito-backup cognito-backup ...
 
 - https://github.com/mifi/dynamodump
 - https://github.com/rahulpsd18/cognito-backup-restore
+
+test
